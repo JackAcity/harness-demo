@@ -1,0 +1,11 @@
+# Artefactos build / cache
+graphify-out/
+.codegraph/
+
+# Config local de Claude Code (no compartir)
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
