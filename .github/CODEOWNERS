@@ -1,0 +1,6 @@
+# Dueños por área. GitHub asigna al dueño como revisor REQUERIDO
+# en cualquier PR que toque archivos bajo la ruta.
+# El ruleset de main: "Require review from Code Owners".
+
+# Dueño del módulo de autenticación
+/src/auth/ @JackAcity

@@ -1,0 +1,2 @@
+# Dependencia justificada: bcrypt cifra contraseñas (regla src/auth/CLAUDE.md).
+bcrypt
