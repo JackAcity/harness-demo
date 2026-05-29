@@ -7,7 +7,7 @@ def test_se_bloquea_tras_5_intentos_fallidos():
         intentos += 1
         if intentos >= 5:
             bloqueado = True
-    assert bloqueado is False              # ROTO A PROPOSITO (demo gate) — revertir
+    assert bloqueado is True               # verifica la regla exacta
 
 
 def test_error_no_revela_que_campo_fallo():
