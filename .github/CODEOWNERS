@@ -2,5 +2,5 @@
 # en cualquier PR que toque archivos bajo la ruta.
 # El ruleset de main: "Require review from Code Owners".
 
-# Dueño del módulo de autenticación
-/src/auth/ @JackAcity
+# Dueños del módulo de autenticación (cualquiera de los dos puede aprobar)
+/src/auth/ @JackAcity @JackGod7
